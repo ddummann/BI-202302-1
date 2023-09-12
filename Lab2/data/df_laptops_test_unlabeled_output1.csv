@@ -14,7 +14,6 @@ id,Company,TypeName,Ram,Weight,TouchScreen,Ips,Ppi,Cpu_brand,HDD,SSD,Gpu_brand,O
 64,HP,Notebook,8,1.86,0,0,141.21199808219862,Intel Core i5,0.0,256,Intel,Windows,
 43,Acer,Notebook,4,2.2,0,1,141.21199808219862,Intel Core i5,0.0,256,Intel,Windows,
 1093,Dell,Ultrabook,4,1.4,0,1,165.6321180513006,Intel Core i5,0.0,256,AMD,Windows,
-522,Dell,Notebook,8,,0,0,141.21199808219862,Intel Core i5,0.0,256,Intel,Windows,
 1154,Dell,Notebook,8,2.04,1,1,282.42399616439724,Intel Core i5,0.0,256,Nvidia,Windows,
 473,Dell,Ultrabook,8,1.42,1,0,165.6321180513006,Intel Core i5,0.0,256,Intel,Windows,
 626,Mediacom,Notebook,2,1.4,0,0,157.3505121487356,Other Intel Processor,0.0,0,Intel,Windows,
