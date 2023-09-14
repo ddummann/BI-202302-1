@@ -56,7 +56,7 @@ MSI,Gaming,16,1.8,0,0,141.21199808219862,Intel Core i7,2000.0,256,Nvidia,Windows
 MSI,Gaming,16,3.78,0,1,127.33567457123112,Intel Core i7,1000.0,256,Nvidia,Windows
 Dell,Notebook,8,2.02,0,0,141.21199808219862,Intel Core i7,1000.0,128,Intel,Windows
 HP,Notebook,6,2.04,0,0,100.45466986113652,Intel Core i7,1000.0,0,Intel,Windows
-Toshiba,&&Notebook,8,2.2,0,0,100.45466986113652,Intel Core i7,500.0,0,Nvidia,Windows
+Toshiba,Notebook,8,2.2,0,0,100.45466986113652,Intel Core i7,500.0,0,Nvidia,Windows
 HP,Notebook,4,1.29,0,0,276.053530085501,Other Intel Processor,0.0,0,Intel,Others
 Lenovo,Netbook,4,1.4,1,0,135.0942111925629,Other Intel Processor,0.0,128,Intel,Windows
 Dell,Notebook,8,1.9,0,0,100.45466986113652,Intel Core i5,500.0,0,Intel,Windows
