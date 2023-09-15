@@ -27,10 +27,10 @@ Price,Company,TypeName,Ram,Weight,TouchScreen,Ips,Ppi,Cpu_brand,HDD,SSD,Gpu_bran
 11.288114524334732,Lenovo,2 in 1 Convertible,8,1.19,1,1,165.6321180513006,Intel Core i7,,512,Intel,Windows
 ,HP,Notebook,4,,0,0,111.93520355955212,Intel Core i5,24127.54311174848,0,Intel,Windows
 ,Lenovo,Notebook,4,2.3,0,1,141.21199808219862,Intel Core i5,1000.0,0,Nvidia,Windows
-11.52464373704442,LG,Ultrabook,8,0.98,1,1,157.3505121487356,Intel Core i7,,512,Intel,Windows
+11.52464373704442,Others_Company,Ultrabook,8,0.98,1,1,157.3505121487356,Intel Core i7,,512,Intel,Windows
 9.962013031516571,HP,Notebook,4,,0,0,141.21199808219862,AMD Processor,1000.0,0,AMD,Windows
 ,MSI,Gaming,16,1.6,0,1,6715.068751729504,Intel Core i7,,256,Nvidia,Windows
-9.49261223560568,Chuwi,Notebook,4,,0,0,141.21199808219862,Other Intel Processor,0.0,0,Intel,Windows
+9.49261223560568,Others_Company,Notebook,4,,0,0,141.21199808219862,Other Intel Processor,0.0,0,Intel,Windows
 ,Lenovo,Notebook,4,2.3,0,1,141.21199808219862,Intel Core i5,1000.0,0,Nvidia,Windows
 11.52253514374866,HP,Ultrabook,8,,0,0,,Intel Core i5,,256,Intel,Windows
 10.862092668762644,Dell,Notebook,8,2.8,0,1,127.33567457123112,Intel Core i5,,128,AMD,Windows
@@ -44,4 +44,4 @@ Price,Company,TypeName,Ram,Weight,TouchScreen,Ips,Ppi,Cpu_brand,HDD,SSD,Gpu_bran
 ,Lenovo,Notebook,8,1.9,0,1,157.3505121487356,Intel Core i5,0.0,256,Intel,Windows
 10.525211768465944,Asus,Gaming,8,2.45,0,0,141.21199808219862,AMD Processor,,0,AMD,Windows
 11.575963360732532,HP,2 in 1 Convertible,8,,1,1,331.2642361026012,Intel Core i7,0.0,512,Intel,Windows
-11.69380197819145,HP,Workstation,8,2.0,0,1,,Intel Core i7,,8,Nvidia,Windows
+11.69380197819145,HP,Others_TypeName,8,2.0,0,1,,Intel Core i7,,8,Nvidia,Windows
